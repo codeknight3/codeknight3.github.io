@@ -1,0 +1,40 @@
+# site settings
+title: Vyankatesh
+subtitle: homepage
+email: vyankateshs33@gmail.com
+description: I'm not a great programmer,<br/>I'm a just a good programmer with great habits.
+url: https://codeknight3.github.io
+baseurl: ''
+author:
+
+street_address: Room 224, Hostel 6, IIT Bombay
+city: Powai
+state: MH
+zip_code: 400076
+country: India
+phone: +91 9766330322
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/vyankatesh.sawalapurkar
+github_url: https://github.com/codeknight3
+gitlab_url:
+googleplus_url:
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/vyankatesh-sawalapurkar-6a3a32166/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+pulgins:
+  'jekyll-watch'
